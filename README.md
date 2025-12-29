@@ -28,8 +28,7 @@
   <img src="https://travel-diary-assets.oss-cn-chengdu.aliyuncs.com/%E9%A6%96%E9%A1%B5.png" width="150" alt="首页">
   <img src="https://travel-diary-assets.oss-cn-chengdu.aliyuncs.com/%E8%A1%8C%E7%A8%8B%E8%AF%A6%E7%BB%86%E9%A1%B5.png" width="150" alt="行程详情">
   <img src="https://travel-diary-assets.oss-cn-chengdu.aliyuncs.com/%E7%BB%9F%E8%AE%A1%E9%A1%B5.png" width="150" alt="统计页">
-  <img src="
-https://travel-diary-assets.oss-cn-chengdu.aliyuncs.com/%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83%E9%A1%B5.png" width="150" alt="个人中心">
+  <img src="https://travel-diary-assets.oss-cn-chengdu.aliyuncs.com/%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83%E9%A1%B5.png" width="150" alt="个人中心">
 </p>
 
 
@@ -280,6 +279,7 @@ const BASE_URL = 'http://192.168.x.x:8080';
 - [uView UI](https://www.uviewui.com/) - UI 组件库
 - [ECharts](https://echarts.apache.org/) - 可视化图表库
 - [Spring Boot](https://spring.io/projects/spring-boot) - 后端框架
+
 
 
 
